@@ -19,7 +19,7 @@ Na construção do Algoritmo, utilize os seguintes conteúdos:
 - Saída de dados
 - Laços Condicionais
 - Laços de Repetição
-
+<br><br>
 
 
 2. Elabore um algoritmo que leia 10 números inteiros e armazene em um vetor. Em seguida, mostre na tela:
